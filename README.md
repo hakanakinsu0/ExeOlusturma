@@ -1,19 +1,22 @@
 **Python Script to EXE Converter**
 
-Bu proje, bir Python dosyasını seçip onu .exe dosyasına dönüştüren bir Tkinter tabanlı GUI uygulamasıdır. Aşağıda bu projenin nasıl kullanılacağını adım adım anlatan bir rehber bulunmaktadır.
+Bu proje, bir Python dosyasını seçip onu .exe dosyasına dönüştüren bir Tkinter tabanlı GUI uygulamasıdır. 
 
+Aşağıda bu projenin nasıl kullanılacağını adım adım anlatan bir rehber bulunmaktadır.
 
 **Gereksinimler**
 Bu scriptin çalışabilmesi için aşağıdaki yazılımlar ve kütüphaneler gerekmektedir:
 
-Python (3.x versiyonu)
-PyInstaller
-Tkinter
+1. Python (3.x versiyonu)
+2. PyInstaller
+3. Tkinter
+
 Eğer bu kütüphaneler sisteminizde yüklü değilse, aşağıdaki komutlarla yükleyebilirsiniz:
 
-pip install pyinstaller
-pip install tk
-Kullanım Kılavuzu
+1. pip install pyinstaller
+2. pip install tk
+   
+**Kullanım Kılavuzu**
 
 **Adım 1: Python Dosyasını Seçin**
 Programı çalıştırdıktan sonra, bir dosya seçici penceresi açılacak ve dönüştürmek istediğiniz Python (.py) dosyasını seçmeniz istenecektir. Seçimi yaptıktan sonra dosya yolu otomatik olarak programa dahil edilecektir.
